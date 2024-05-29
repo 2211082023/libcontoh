@@ -1,0 +1,17 @@
+{
+    "name": "nurul/libhallo",
+    "description": "pembuatan library sederhana",
+    "type": "library",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "Nurul Aulia",
+            "email": "nurulaulialubis03@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {"nurul\\libhallo" :"src/"}
+    },
+    "require": {}
+}
